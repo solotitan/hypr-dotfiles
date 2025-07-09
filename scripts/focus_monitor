@@ -1,0 +1,5 @@
+#!/bin/bash
+sleep 1  # Wait for Hyprland to fully start
+hyprctl dispatch movecursor 0 0
+hyprctl dispatch workspace 1
+hyprctl dispatch focuswindow Browsing

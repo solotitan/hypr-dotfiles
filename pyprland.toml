@@ -1,0 +1,9 @@
+[pyprland]
+plugins = ["scratchpads"]
+
+[scratchpads.obsidian]
+animation = "fromTop"
+command = "obsidian --disable-gpu"
+class = "obsidian"
+size = "75% 60%"
+max_size = "1920px 100%"

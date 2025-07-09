@@ -1,0 +1,28 @@
+# Backup directories
+backup/
+*.backup
+*.bak
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Cache directories
+cache/
+.cache/
+
+# Personal/sensitive files (if any)
+*.personal
+*.secret
+
+# Hyprland specific temporary files
+hyprland.log
