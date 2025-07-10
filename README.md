@@ -55,7 +55,7 @@ hypr/
 
 ### Essential Dependencies
 - **Hyprland** (latest version recommended)
-- **Waybar** (status bar)
+- **HyprPanal** (status bar)
 - **Wofi** or **Rofi** (application launcher)
 - **Kitty** or **Alacritty** (terminal emulator)
 - **Swww** (wallpaper daemon)
