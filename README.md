@@ -1,5 +1,10 @@
 # 🌊 Hyprland Dotfiles
 
+## BE AWARE THAT I DO NOT UPDATE THIS REPO AS CHANGES ARE ROLLED OUT FOR HYPRLAND
+## SOME FILES LIKE hyprland.conf AND windowrules.conf MAY HAVE UPDATED OR DEPRECIATED SPECS
+## THESE ARE JUST BASE FILES I USE AS A START WHEN CONFIGURING MY HYPRLAND SETUPS
+## ODDS ARE IT WONT WORK OUT OF THE BOX AND WILL NEED SOME TWEAKING
+
 A comprehensive and well-organized Hyprland configuration featuring modular configs, custom scripts, and beautiful theming. This setup provides a powerful and efficient Wayland desktop environment.
 
 ## ✨ Features
@@ -225,4 +230,3 @@ This configuration is open source and available under the [MIT License](LICENSE)
 ---
 
 **Enjoy your beautiful Hyprland setup! 🌊✨**
-# Test backup system
